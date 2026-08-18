@@ -1,0 +1,23 @@
+title: "APEC Regional Dialogue: Cyber-Resilient Intelligent Transportation Systems"
+
+description: >
+  Strengthening transport cybersecurity cooperation and preparedness across APEC economies.
+
+baseurl: "/cyber-its-regional-dialogue/"
+url: "https://usapecrise.github.io"
+
+markdown: kramdown
+
+logo: "/css/2016_style/img/icon-large.png"
+
+social: []
+
+google_site_verification: googleXXXXXXXXXXXXXXXX.html
+
+include: ['_2016_pages', '_2017_pages']
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+permalink: pretty

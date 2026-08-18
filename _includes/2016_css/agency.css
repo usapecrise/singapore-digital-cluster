@@ -1842,3 +1842,26 @@ html {
   }
 }
 
+/* Remove default details marker */
+.workshop-detail summary::-webkit-details-marker {
+  display: none;
+}
+
+.workshop-detail summary {
+  list-style: none;
+}
+
+/* Subtle hover */
+.workshop-detail summary:hover {
+  background: #f8fafc;
+}
+
+/* Rotate arrow when expanded */
+.workshop-detail[open] summary .fa-chevron-down {
+  transform: rotate(180deg);
+}
+
+.workshop-detail .fa-chevron-down {
+  transition: transform 0.2s ease;
+}
+

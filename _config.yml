@@ -1,9 +1,11 @@
-title: "APEC Regional Dialogue: Cyber-Resilient Intelligent Transportation Systems"
+title: "Technology, Trust, and Talent: Advancing Digital Transformation Across APEC"
 
 description: >
-  Strengthening transport cybersecurity cooperation and preparedness across APEC economies.
+  An APEC workshop series exploring emerging technologies, digital trust,
+  and workforce skills to advance secure and inclusive digital transformation
+  across APEC economies.
 
-baseurl: "/cyber-its-regional-dialogue/"
+baseurl: "/technology-trust-talent/"
 url: "https://usapecrise.github.io"
 
 markdown: kramdown
